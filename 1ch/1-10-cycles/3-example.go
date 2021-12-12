@@ -35,4 +35,6 @@ func main() {
 	}
 	fmt.Println(sum)
 	fmt.Println("Great")
+	fmt.Println("Great")
+	fmt.Println("Great")
  }
