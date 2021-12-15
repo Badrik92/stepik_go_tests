@@ -26,4 +26,5 @@ func main() {
 		n = i * i
 		fmt.Println(n)
 	}
+
 }
