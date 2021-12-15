@@ -34,7 +34,7 @@ func main() {
 	var n, sum, count int 
 	
 	for fmt.Scan(&n); n !=0; fmt.Scan(&n) {
-		if n > sum && n != 0 {
+		if n > sum{
 			count = 1 // Присваиваем значение, что б при 0 count не плюсовался
 			sum = n
 		} else if n == sum {
